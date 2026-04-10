@@ -1,12 +1,21 @@
 # Awesome AI Video Prompts
 
-> Official HitPaw AI Video Prompt Library for Seedance, Veo, and more text-to-video models.
+> Official HitPaw AI video prompt library with Seedance prompts, Veo prompts, text-to-video templates, and prompt examples.
 
-This repository is designed to capture search intent around AI video prompts, organize high-quality prompt examples and templates, and guide users to try them in HitPaw Online.
+This repository is designed to capture search intent around AI video prompts, especially high-intent keywords like **Seedance prompts**, **Veo prompts**, and **text-to-video prompt templates**. It organizes prompt examples, reusable formulas, and model-specific inspiration pages, then guides users to try them in HitPaw Online.
+
+## Popular searches this library targets
+
+- Seedance prompts
+- best Seedance prompts
+- Veo prompts
+- AI video prompts
+- text-to-video prompt templates
+- cinematic AI video prompts
 
 ## Why this repo exists
 
-HitPaw Online supports multiple AI video generation models. Instead of building isolated prompt collections for each model, this library provides a scalable structure:
+HitPaw Online supports multiple AI video generation models. Instead of building isolated prompt collections for each model, this library provides a scalable structure that can rank for broad AI video terms while still capturing long-tail searches like **Seedance prompts** and **Veo prompts**:
 
 - a central hub for AI video prompt discovery
 - model-specific prompt collections
@@ -15,9 +24,9 @@ HitPaw Online supports multiple AI video generation models. Instead of building 
 
 ## What you’ll find here
 
-- Seedance prompt examples
-- Veo prompt examples
-- prompt templates for different video goals
+- Seedance prompt examples for cinematic, anime, and fantasy scenes
+- Veo prompt examples for storytelling and product ads
+- prompt templates for different text-to-video goals
 - prompt writing tips for better generation results
 - model hubs that can expand over time
 
@@ -34,7 +43,7 @@ HitPaw Online supports multiple AI video generation models. Instead of building 
 
 ## Quick start
 
-1. Choose a model hub.
+1. Choose a model hub such as Seedance Prompts or Veo Prompts.
 2. Copy a prompt example or template.
 3. Adjust subject, motion, environment, style, and camera details.
 4. Try the prompt in HitPaw Online.
@@ -75,7 +84,7 @@ This repository is built with a two-layer structure:
 1. top-level AI video prompt library for broad SEO terms
 2. model-specific hubs for long-tail search intent such as Seedance prompts and Veo prompts
 
-This makes it easier to scale the repository as HitPaw Online adds more models.
+This structure makes it easier to scale the repository as HitPaw Online adds more models, while still keeping strong page-level keyword relevance for current search targets.
 
 ## Initial publishing scope
 
