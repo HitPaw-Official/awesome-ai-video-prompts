@@ -11,4 +11,5 @@ coverage/
 .env
 .env.*
 guides/editorial-notes.md
-.meta/editorial-notes.md
+guides/seo-and-cta-notes.md
+.meta/
