@@ -2,25 +2,16 @@
 
 > Official HitPaw AI video prompt library with Seedance prompts, Veo prompts, text-to-video templates, and prompt examples.
 
-This repository is designed to capture search intent around AI video prompts, especially high-intent keywords like **Seedance prompts**, **Veo prompts**, and **text-to-video prompt templates**. It organizes prompt examples, reusable formulas, and model-specific inspiration pages, then guides users to try them in HitPaw Online.
-
-## Popular searches this library targets
-
-- Seedance prompts
-- best Seedance prompts
-- Veo prompts
-- AI video prompts
-- text-to-video prompt templates
-- cinematic AI video prompts
+This repository brings together prompt examples, reusable templates, and model-specific inspiration for creators working with AI video tools like Seedance and Veo. It is built to help users find better prompt ideas faster and try them in HitPaw Online.
 
 ## Why this repo exists
 
-HitPaw Online supports multiple AI video generation models. Instead of building isolated prompt collections for each model, this library provides a scalable structure that can rank for broad AI video terms while still capturing long-tail searches like **Seedance prompts** and **Veo prompts**:
+HitPaw Online supports multiple AI video generation models. This library makes it easier to explore prompt ideas for models like Seedance and Veo in one place.
 
-- a central hub for AI video prompt discovery
+- prompt examples for different styles and use cases
 - model-specific prompt collections
 - reusable prompt formulas and writing guides
-- natural product entry points to HitPaw Online
+- a simple path to try prompts in HitPaw Online
 
 ## What you’ll find here
 
@@ -39,7 +30,6 @@ HitPaw Online supports multiple AI video generation models. Instead of building 
 
 - [How to Write Better AI Video Prompts](./guides/how-to-write-ai-video-prompts.md)
 - [AI Video Prompt Formulas](./guides/prompt-formulas.md)
-- [SEO and CTA Notes](./guides/seo-and-cta-notes.md)
 
 ## Quick start
 
@@ -77,14 +67,9 @@ awesome-ai-video-prompts/
    └─ ai-video-prompts-faq.md
 ```
 
-## Content strategy
+## Content structure
 
-This repository is built with a two-layer structure:
-
-1. top-level AI video prompt library for broad SEO terms
-2. model-specific hubs for long-tail search intent such as Seedance prompts and Veo prompts
-
-This structure makes it easier to scale the repository as HitPaw Online adds more models, while still keeping strong page-level keyword relevance for current search targets.
+This library is organized with a main prompt hub and model-specific sections such as Seedance and Veo. As more prompt collections are added, users can explore new models and categories without changing the overall reading experience.
 
 ## Initial publishing scope
 
@@ -108,6 +93,3 @@ Potential future model hubs:
 - Pika
 - general cinematic text-to-video prompts
 
-## Maintainer note
-
-This project is bootstrapped locally as a dedicated repository workspace for future publication under an official HitPaw GitHub account.

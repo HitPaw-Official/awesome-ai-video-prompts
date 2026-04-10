@@ -1,6 +1,6 @@
 # Veo Prompts
 
-Veo Prompts is the second launch model hub in this repository. This section is built to support search intent around **Veo prompts**, **best Veo prompts**, and **Veo prompt templates** while keeping the broader AI video prompt library architecture stable.
+Veo Prompts is the second launch model hub in this repository. This section brings together prompt examples and templates for cinematic storytelling, product ads, and other high-quality AI video ideas.
 
 ## In this section
 
@@ -8,9 +8,9 @@ Veo Prompts is the second launch model hub in this repository. This section is b
 - [Veo Product Ad Prompts](./ads.md)
 - [Veo Prompt Templates](./templates.md)
 
-## Why these Veo prompts matter
+## Why use this hub
 
-Users searching for Veo prompts are often looking for high-quality cinematic scenes, product ad ideas, or storytelling structures they can quickly adapt. This hub is designed to make those prompt patterns easier to discover and reuse.
+This hub is meant for users who want practical Veo prompt ideas they can reuse, remix, and adapt for different creative goals.
 
 ## Recommended use
 

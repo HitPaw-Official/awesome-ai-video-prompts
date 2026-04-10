@@ -1,6 +1,6 @@
 # Seedance Prompts
 
-Seedance Prompts is one of the core model hubs in this library. This section is designed to capture long-tail searches around **Seedance prompts**, **best Seedance prompts**, and **Seedance prompt templates**, then provide organized examples that users can directly test in HitPaw Online.
+Seedance Prompts is one of the core model hubs in this library. This section brings together prompt examples and templates that users can adapt for cinematic scenes, anime visuals, fantasy ideas, and more.
 
 ## In this section
 
@@ -8,9 +8,9 @@ Seedance Prompts is one of the core model hubs in this library. This section is 
 - [Anime Seedance Prompts](./anime.md)
 - [Seedance Prompt Templates](./templates.md)
 
-## Why these Seedance prompts matter
+## Why use this hub
 
-Users searching for Seedance prompts usually want ready-to-copy ideas that already include scene structure, motion, and style cues. This hub is built to make Seedance prompt discovery easier while also helping users understand how to write better prompts from scratch.
+This hub is meant for users who want ready-to-use Seedance prompt ideas as well as simple structures they can adapt for their own scenes.
 
 ## Recommended use
 
