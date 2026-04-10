@@ -15,6 +15,6 @@ Character + expressive movement + stylized environment + anime visual language +
 ## Social short video formula
 Subject + hook action + bold scene setup + fast visual cue + platform-friendly energy
 
-## Why formulas matter
+## Why formulas help
 
-Prompt formulas reduce randomness and make it easier to scale content across multiple model hubs.
+Prompt formulas make it easier to write clearer prompts, adapt ideas faster, and keep scene details more consistent.

@@ -61,8 +61,7 @@ awesome-ai-video-prompts/
 │     └─ templates.md
 ├─ guides/
 │  ├─ how-to-write-ai-video-prompts.md
-│  ├─ prompt-formulas.md
-│  └─ seo-and-cta-notes.md
+│  └─ prompt-formulas.md
 └─ faq/
    └─ ai-video-prompts-faq.md
 ```
@@ -71,25 +70,19 @@ awesome-ai-video-prompts/
 
 This library is organized with a main prompt hub and model-specific sections such as Seedance and Veo. As more prompt collections are added, users can explore new models and categories without changing the overall reading experience.
 
-## Initial publishing scope
+## Current scope
 
-The first version focuses on:
+This version includes:
 
-- Seedance
-- Veo
+- Seedance prompts
+- Veo prompts
 - prompt formulas
 - writing guides
 - FAQ
 
-More model hubs can be added later without changing the overall structure.
+More model hubs and prompt categories can be added over time.
 
-## Notes for future expansion
+## More prompt collections coming later
 
-Potential future model hubs:
-
-- Kling
-- Runway
-- Hailuo
-- Pika
-- general cinematic text-to-video prompts
+Potential future model hubs include Kling, Runway, Hailuo, Pika, and more general cinematic text-to-video prompt collections.
 
