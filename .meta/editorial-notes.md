@@ -1,6 +1,6 @@
 # Editorial Notes
 
-This repository should present prompt examples, templates, and writing guidance in a user-facing tone.
+This project should present prompt examples, templates, and writing guidance in a user-facing tone.
 
 ## Writing principles
 
