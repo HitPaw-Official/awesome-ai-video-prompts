@@ -2,58 +2,70 @@
 
 > Official HitPaw AI video prompt library with featured prompts for Seedance, Veo, and more AI video models.
 
-This repository is built for creators who want useful prompt ideas fast. You can browse featured prompts below, copy the ones you like, and explore more prompt collections by model.
+This repository is built for creators who want useful prompt ideas fast. Browse the featured prompts below, copy the ones you like, and explore more collections by model.
 
 ## Featured Prompts
 
-### 1. Seedance Cinematic Neon Street Scene
+### 1. Seedance, Cinematic Neon Street Scene
 
-A cinematic urban scene with strong atmosphere, reflective surfaces, and slow camera motion.
+**Best for:** cyberpunk atmosphere, cinematic urban shots, moody opening scenes  
+**Prompt style:** realistic, dramatic, slow camera movement
+
+A cinematic urban scene with reflective streets, soft fog, and a steady camera move that feels like the opening shot of a film.
 
 ```text
 A lone traveler in a long black coat walks slowly across a rain-soaked neon street at night, cinematic lighting, reflective puddles, soft fog, dramatic camera dolly in, highly detailed urban atmosphere.
 ```
 
-Try it here:
+Try it here:  
 [Generate in HitPaw AI Video Generator](https://online.hitpaw.com/apps/ai-video/text-to-video?reportSource=github_featured_seedance_cinematic)
 
 ---
 
-### 2. Seedance Anime Rooftop Moment
+### 2. Seedance, Anime Rooftop Sunset Moment
 
-A soft anime-style character scene with wind, sunset color, and emotional framing.
+**Best for:** anime character shots, emotional scenes, romantic or dramatic mood  
+**Prompt style:** anime cinematic, soft wind, sunset palette
+
+A simple anime-style character moment built around pose, wind, and color. Good for emotional visuals and stylized storytelling.
 
 ```text
 A young swordsman stands on a rooftop at sunset, wind lifting his cape, glowing sky, anime cinematic framing, dramatic pose, rich orange and purple color palette.
 ```
 
-Try it here:
+Try it here:  
 [Generate in HitPaw AI Video Generator](https://online.hitpaw.com/apps/ai-video/text-to-video?reportSource=github_featured_seedance_anime)
 
 ---
 
-### 3. Veo Luxury Product Ad Prompt
+### 3. Veo, Luxury Skincare Product Ad
 
-A polished commercial-style product prompt for beauty, tech, and premium brand visuals.
+**Best for:** beauty ads, premium product videos, clean brand visuals  
+**Prompt style:** commercial, studio lighting, polished product motion
+
+A premium product ad prompt with a strong commercial feel. Useful for skincare, cosmetics, and other luxury brand concepts.
 
 ```text
 A premium skincare bottle rotates slowly on a reflective marble surface, soft studio lighting, floating water droplets, elegant close-up camera shot, luxury beauty commercial style.
 ```
 
-Try it here:
+Try it here:  
 [Generate in HitPaw AI Video Generator](https://online.hitpaw.com/apps/ai-video/text-to-video?reportSource=github_featured_veo_product)
 
 ---
 
-### 4. Veo Storytelling City After Rain
+### 4. Veo, Storytelling City After Rain
 
-A moody storytelling prompt built around movement, atmosphere, and emotional tone.
+**Best for:** music videos, emotional storytelling, cinematic city scenes  
+**Prompt style:** reflective, atmospheric, character-led motion
+
+A moody storytelling prompt built around atmosphere, movement, and emotion. It works well for cinematic scenes with a quiet narrative tone.
 
 ```text
 A young musician walks alone through an empty city after rain, neon reflections, medium tracking shot, reflective and emotional mood.
 ```
 
-Try it here:
+Try it here:  
 [Generate in HitPaw AI Video Generator](https://online.hitpaw.com/apps/ai-video/text-to-video?reportSource=github_featured_veo_storytelling)
 
 ---
